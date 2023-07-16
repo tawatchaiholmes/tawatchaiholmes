@@ -33,6 +33,6 @@
 
 <p align="center">
       <img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" align="left">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyholmes1210&theme=dark&hide=C,Makefile&layout=compact" >
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawatchaiholmes&theme=dark&hide=C,Makefile&layout=compact" >
       <img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png" align="right">
 </p>
